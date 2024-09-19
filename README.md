@@ -11,5 +11,6 @@ The Client-Tab displays all connected clients. Sorillus offers over 60 modules, 
 
 # Settings
 Sorillus offers numerous customizable options, such as settings for enabling various notifications, tray closing, design settings for modifying the theme and animations. In addition, you can also report bugs via the Settings-Tab.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b82b6b96-0c59-48ee-8d5f-5b909ee659fe)
 
+# Cracked BY : ERR0R H4CKER
